@@ -1,3 +1,8 @@
+geo.db
+shp_out/
+sample.kml
+sample_shp.zip
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -218,3 +223,5 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+uploads/
+*.db
