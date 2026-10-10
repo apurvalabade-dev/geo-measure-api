@@ -8,7 +8,7 @@ centroid first (see [CRS handling](#crs-handling)).
 
 - Python / FastAPI / SQLAlchemy / SQLite
 - geopandas (pyogrio), shapely, pyproj for the geospatial work
-- 46 automated tests (pytest)
+- 53 automated tests (pytest)
 
 ---
 
